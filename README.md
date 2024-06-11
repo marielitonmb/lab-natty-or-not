@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Breve história da Paraíba
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de um texto contendo um resumo da história do estado Paraíba
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o prompt do ChatGPT solicitando a descrição da história da Paraíba. Para obter diferentes resultados, fiquei variando a forma a forma da solicitação.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Atividade interessante já que o uso das IAs Generativas já são ferramentas muito úteis em nosso contidiano.
 ```
 
 ### Exemplos e Insigths
