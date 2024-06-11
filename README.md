@@ -32,7 +32,7 @@ ChatGPT
 Utilizei o prompt do ChatGPT solicitando a descrição da história da Paraíba. Para obter diferentes resultados, fiquei variando a forma a forma da solicitação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o texto gerado: https://github.com/marielitonmb/lab-natty-or-not/blob/main/Historia-PB.md
 
 ## 💭 Reflexão (Opcional)
 Atividade interessante já que o uso das IAs Generativas já são ferramentas muito úteis em nosso contidiano.
